@@ -1,0 +1,15 @@
+.triangle {
+	/*width: 50px;*/
+	/*height: 50px;*/
+	/*background-color: red;*/
+
+	/*border: 50px solid green;*/
+	/*border-top: 50px solid blue;
+	border-right: 50px solid #FF7F7F;
+	border-bottom: 150px solid #FFD800;
+	*/
+
+
+	border-bottom: 150px solid transparent;
+	border-left: 150px solid #aa00ff;
+}
